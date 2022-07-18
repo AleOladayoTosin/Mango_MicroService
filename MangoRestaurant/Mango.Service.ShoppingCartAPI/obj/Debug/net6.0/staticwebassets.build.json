@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vq8Jo43aiQ09zp8YzSkjZS8T3ZCOdpuv9AV9EehJImg=",
+  "Source": "Mango.Service.ShoppingCartAPI",
+  "BasePath": "_content/Mango.Service.ShoppingCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
